@@ -1,14 +1,23 @@
 Subset of Attributes (US data set)
 
+<<<<<<< HEAD
 Age
 Sex
+=======
+_Age
+_Gender
+>>>>>>> yniu3/master
 Race
 Martial Status
 Armed Forces
 Adult Civilian
 Age at First Marriage
 Health Insurance
+<<<<<<< HEAD
 Educational Attainment
+=======
+_Educational Attainment
+>>>>>>> yniu3/master
 Kind of family
 Citizenship Status
 Hispanic Origin
@@ -18,7 +27,11 @@ Working towards what degree
 Major field of study
 Location (by State)
 Poverty
+<<<<<<< HEAD
 Employment Status
+=======
+_Employment Status
+>>>>>>> yniu3/master
 Occupation
 Industry
 Fertility Supplement
